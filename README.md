@@ -1,53 +1,42 @@
-# Welcome to your Expo app 👋
+![Voll - Mobile](https://repository-images.githubusercontent.com/604322042/0b63dd66-5a29-4646-9c15-a9f490bb3742)
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# Voll #
 
-## Get started
+Uma aplicação para consultas médicas usando Native Base e TypeScript no React Native.
 
-1. Install dependencies
+## 🔨 Funcionalidades da aplicação ##
 
-   ```bash
-   npm install
-   ```
+A aplicação permite que os usuários agendem consultas com médicos, visualizem seus históricos médicos e pesquise por especialistas na região.
 
-2. Start the app
+## ✔️ Tecnologias e ferramentas utilizadas ##
 
-   ```bash
-    npx expo start
-   ```
+As tecnologias e ferramentas utilizadas nesta aplicação incluem:
 
-In the output, you'll find options to open the app in a
+* Native Base: biblioteca de componentes visuais para React Native
+* TypeScript: linguagem de programação fortemente tipada
+* Expo: plataforma de desenvolvimento de aplicativos para React Native
+* React Native: framework para desenvolvimento de aplicativos para plataformas móveis
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🎯 Desafio ##
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Usar a biblioteca Native Base e TypeScript para criar uma aplicação para consultas médicas.
 
-## Get a fresh project
+## 📁 Acesso ao projeto ##
 
-When you're ready, run:
+O código fonte desta aplicação pode ser acessado em seu repositório no GitHub.
 
-```bash
-npm run reset-project
-```
+## 🛠️ Instruções para execução ##
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+1. Clone o repositório para sua máquina local
+2. Instale as dependências necessárias com o comando 
+`npm install`
+3. Execute a aplicação com o comando 
+`npx expo start`
 
-## Learn more
+## 📚 Mais informações ##
 
-To learn more about developing your project with Expo, look at the following resources:
+Para obter mais informações sobre este projeto, entre em contato com o desenvolvedor - Vinicius Trecenti.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-
-# Sobre o Voll
-- Conhecemos o projeto Voll
+# Projeto Voll ALURA 
+- Conhecendo o React-Native
+- Configurando o NativeBase
