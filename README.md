@@ -37,6 +37,8 @@ O código fonte desta aplicação pode ser acessado em seu repositório no GitHu
 
 Para obter mais informações sobre este projeto, entre em contato com o desenvolvedor - Vinicius Trecenti.
 
-# Projeto Voll ALURA 
+# Projeto Voll ALURA (Conhecimentos)
 - Conhecendo o React-Native
 - Configurando o NativeBase
+- Criar uma tela de login com textos, botões e inputs;
+- Modularizar e reutilizar o código criando componentes;
