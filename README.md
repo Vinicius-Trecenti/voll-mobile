@@ -42,3 +42,5 @@ Para obter mais informações sobre este projeto, entre em contato com o desenvo
 - Configurando o NativeBase
 - Criar uma tela de login com textos, botões e inputs;
 - Modularizar e reutilizar o código criando componentes;
+- Compreender o que é o React Navigation e entender como funciona a navegação entre telas;
+- Utilizar boas práticas com a refatoração do código.
